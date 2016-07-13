@@ -1,0 +1,28 @@
+name: Block-chain
+favicon: null
+layout_spectrum: 0.14694083528593183
+typography_spectrum: 0.2881521217059344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3303472208790481
+  lightness: 0.06484664068557322
+  saturation: 0.05862903711386025
+  rhythmicContrast: 0.013383153360337019
+purpose: []
